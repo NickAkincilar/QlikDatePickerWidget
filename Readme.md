@@ -2,7 +2,7 @@
 
 This is a very simple QlikSense Widget that allows you to pick a data and store it in a variable. It uses 2 lines of HTML code and HTML5 date picker capabilities so there is no JS library to render a calendar. 
 
-If you are afraid to use extensions which could break, this is a great way to add date picker functionality as it uses Qlik's built-in Leonardo UI and actions which should work with any new version without breaking. 
+If you are afraid to use extensions which could break, this is a great way to add date picker functionality as it uses Qlik's built-in Leonardo UI and actions which should work with any new version without breaking. Output is set at M/D/YYYY format. 
 
 [Download Widget](https://github.com/NickAkincilar/QlikDatePickerWidget/blob/master/QlikNavigationWidgets.zip?raw=true)
 
